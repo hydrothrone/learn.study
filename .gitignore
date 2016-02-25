@@ -1,0 +1,8 @@
+# that should be backup
+# echo "# learn.study" >> README.md
+# git init
+# git add README.md
+# git commit -m "first commit"
+# git remote add origin https://github.com/hydrothrone/learn.study.git
+# git push -u origin master
+
