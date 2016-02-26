@@ -1,1 +1,4 @@
-# the results about any learning and study should be in here
+# conclusion within study & learning <br/>
+mind mapping <br/>
+documents <br/>
+test & examination <br/>
