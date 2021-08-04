@@ -17,3 +17,4 @@ s2k.time.edu.cn CERNET桂林主节点
 s2m.time.edu.cn 北京大学
 
 210.72.145.44 (国家授时中心服务器IP地址)
+
